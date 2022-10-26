@@ -1,0 +1,8 @@
+.bg-image {
+    background-image: url(../img/pexelsphoto1639563.jpeg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover
+}
